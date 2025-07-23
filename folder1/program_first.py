@@ -1,4 +1,4 @@
 print("Hello hello git!!")
 print("Hello commit!")
 print("Hello stepik!")
-
+print("ya yshe ne pomny shto ya delal")
